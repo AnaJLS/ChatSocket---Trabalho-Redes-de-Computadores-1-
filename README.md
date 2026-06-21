@@ -13,4 +13,4 @@ Como executar:
 
 Documentação completa (arquitetura, protocolo e manual de uso) ver: Documentacao_ChatSocket.pdf neste repositório.
 
-Vídeo-manual (Youtube):
+Vídeo-manual (Youtube): https://youtu.be/0NTNK2uIyWg
